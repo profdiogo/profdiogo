@@ -2,6 +2,9 @@
 - Sou professor formador do grupo de Estudo Formadores em Ação
 - Professor de Matemática e física
 - Estou atuando como formador na área de pensamento computacional e programação no EM
+
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
+
 <!--
 **profdiogo/profdiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
