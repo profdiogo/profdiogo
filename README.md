@@ -1,5 +1,7 @@
 ### Olá sou o Professor Diogo 👋
 - Sou professor formador do grupo de Estudo Formadores em Ação
+- Professor de Matemática e física
+- Estou atuando como formador na área de pensamento computacional e programação no EM
 <!--
 **profdiogo/profdiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
